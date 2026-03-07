@@ -1,0 +1,6 @@
+{
+  "version": "fabric-loader-0.14.12-1.19.2",
+  "java_version": 17,
+  "memory": "4G",
+  "jvm_args": []
+}
