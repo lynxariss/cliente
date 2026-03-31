@@ -1,4 +1,6 @@
 {
+  "play_button_color": "#00ff88",
+  "login_button_color": "#0088ff",
   "version": "fabric-loader-0.14.12-1.19.2",
   "java_version": 17,
   "memory": "4G",
