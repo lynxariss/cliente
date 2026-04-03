@@ -1,3 +1,0 @@
-mimicbutton:net.minecraft.class_433:button_compatibility_id:mc_pausescreen_disconnect_button
-opengui:net.minecraft.class_442
-reloadmenu
